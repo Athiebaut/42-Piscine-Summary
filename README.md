@@ -13,7 +13,7 @@ All my projects at 42Network-Paris.
 [C 03](https://github.com/Athiebaut/42-Piscine/tree/main/c03) | C | Learn how to manipulate strings in this module | 100% |
 [C 04](https://github.com/Athiebaut/42-Piscine/tree/main/c04) | C | Continue working with strings and learn how to manipulate integers | 100% |
 [Exam 01] | C | Second Exam piscine | 80% |
-[Rush 01](https://github.com/Athiebaut/42-Piscine/tree/main/rush01) | C | Backtacking | 0% |
+[Rush 01](https://github.com/Athiebaut/42-Piscine/tree/main/rush01) | C | Backtracking | 0% |
 [C 05](https://github.com/Athiebaut/42-Piscine/tree/main/c05) | C | Implement small algorithms using recursive programming | 80% |
 [C 06](https://github.com/Athiebaut/42-Piscine/tree/main/c06) | C | Learn how to use C arguments not only in your functions but also in your program as a whole | 100% |
 [C 07](https://github.com/Athiebaut/42-Piscine/tree/main/c07) | C | Strengthen your skills by implementing various algorithms | 100% |
