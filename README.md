@@ -1,7 +1,7 @@
 # 42-Piscine
 Intensive four-week coding bootcamp at 42 Paris, focused on C programming, Unix, algorithms, and peer-learning.
 
-✅ Learned core programming concepts from scratch:
+Learned core programming concepts from scratch:
 – Memory management (pointers, malloc, free)
 – Recursion, sorting algorithms, and basic data structures
 – Shell scripting and use of Git in a collaborative environment
